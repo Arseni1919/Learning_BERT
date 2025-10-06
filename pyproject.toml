@@ -5,5 +5,6 @@ description = "Add your description here"
 requires-python = ">=3.12"
 dependencies = [
     "pandas>=2.3.2",
+    "torchtext>=0.18.0",
     "transformers>=4.56.2",
 ]
